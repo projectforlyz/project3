@@ -1,6 +1,6 @@
 {
   "name": "Project3",
   "tagline": "",
-  "body": "We have completed the project which need us to make a game called minesweeping. We use two arries, one contains the mine and the other shows '-' that will cover the area. Then we calculate each space how many mines are there nearby and renew the information which contains in the hide array. Then we make some functions that judge when the game is ending.\r\n\r\nHere comes our game, just run the cpp is ok\r\n\r\n![](https://github.com/projectforlyz/project3/blob/gh-pages/Screen%20Shot%202016-12-09%20at%2020.06.01.png)\r\n\r\n![](https://github.com/projectforlyz/project3/blob/gh-pages/Screen%20Shot%202016-12-09%20at%2020.06.17.png)",
+  "body": "[project3](https://github.com/projectforlyz/project3)\r\n\r\nWe have completed the project which need us to make a game called minesweeping. We use two arries, one contains the mine and the other shows '-' that will cover the area. Then we calculate each space how many mines are there nearby and renew the information which contains in the hide array. Then we make some functions that judge when the game is ending.\r\n\r\nHere comes our game, just run the cpp is ok.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
